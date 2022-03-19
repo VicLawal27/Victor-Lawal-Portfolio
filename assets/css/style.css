@@ -5,10 +5,10 @@
 }
 
 :root {
-    --primary-color: #131615;
-    --secondary-color: #8b2635;
-    --tertiary-color: #e0e2db;
-    --quaternary-color: #878d95;
+    --primary-color: #31343D;
+    --secondary-color: #92CCCD;
+    --tertiary-color: #445876;
+    --quaternary-color: #31343D;
 }
 
 body {
@@ -44,7 +44,7 @@ header h1 a {
 }
 
 header nav {
-    margin: 7px 0;
+    margin-right: 40px; 
 }
 
 header nav ul {
@@ -60,9 +60,9 @@ header nav ul li a {
     text-decoration: none;
     padding: 10px 15px;
     font-weight: bold;
-    font-size: 1.55vw;
+    font-size: 1.65vw;
     border-bottom: 5px solid var(--secondary-color);
-    justify-content: space-between;
+    margin: 10px;
 }
 
 header nav ul li a:hover {
@@ -70,4 +70,6 @@ header nav ul li a:hover {
     background-color: var(--secondary-color);
 }
     
-    
+.about-me {
+    color: var(--primary-color);
+}
