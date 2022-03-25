@@ -99,6 +99,7 @@ header nav ul li a:hover {
 .border-right {
     position: relative;
     border-right: 5px solid var(--tertiary-color);
+    
 }
 
 .about-me-bio {
