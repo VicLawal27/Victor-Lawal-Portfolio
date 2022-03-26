@@ -1,5 +1,14 @@
 # Victor-Lawal-Portfolio
 
+##Product Link
+
+[Product Link]()
+
+
+##Sceenshot
+
+![Screenshot of working product](./assets/images/porfolio.jpg)
+ 
 ## Criteria
 
 #### GIVEN I need to sample a potential employee's previous work
